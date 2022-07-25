@@ -1,0 +1,5 @@
+/* buttons */
+.btn {
+    @apply p-2 shadow rounded-lg m-1 text-center;
+
+}

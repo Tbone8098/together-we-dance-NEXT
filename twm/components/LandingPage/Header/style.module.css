@@ -1,0 +1,13 @@
+.green > path{
+    @apply fill-my-primary stroke-my-primary;
+}
+
+.blueLight > path {
+    @apply fill-my-secondary stroke-my-secondary;
+}
+.blue > path {
+    @apply fill-my-eny stroke-my-eny;
+}
+.purple > path {
+    @apply fill-my-ella stroke-my-ella;
+}

@@ -1,0 +1,18 @@
+.body {
+    @apply h-screen bg-my-primary sticky top-10;
+    transition-duration: 500ms
+}
+
+.hide {
+    @apply bg-my-secondary h-52;
+}
+/* .wrapper {
+    @apply h-screen;
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+}
+
+.section {
+    scroll-margin-top: em;
+    scroll-snap-align: start;
+} */
